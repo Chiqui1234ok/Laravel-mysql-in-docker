@@ -40,6 +40,7 @@ composer create-project --prefer-dist laravel/laravel
 3. Enter into .docker folder and do:
 
 ```bash
+make build
 make up
 ```
 
